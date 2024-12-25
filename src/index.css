@@ -5,9 +5,42 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding-top: 56px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: inter;
+  src: url('./Inter/Inter-Bold.otf');
+}
+
+.navbar-toggler:focus {
+  box-shadow: none;  /* Remove the outline or box-shadow */
+  border: 2px solid #f2f2f5;      /* Remove the border */
+}
+
+.nav-item:hover{
+  background-color: #f2f2f5;
+  border-radius: 10px;    
+}
+
+.nav-link{
+  padding-left: 5px;
+}
+
+.navbar {
+  position: fixed; /* Fix the navbar at the top of the page */
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1050; /* Keep it above other content */
+}
+
+.placepoint_highlighter{
+  font-weight: bold;
+  font-family: inter;
 }
