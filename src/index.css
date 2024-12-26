@@ -18,13 +18,18 @@ code {
   src: url('./Inter/Inter-Bold.otf');
 }
 
-.navbar-toggler:focus {
-  box-shadow: none;  /* Remove the outline or box-shadow */
-  border: 2px solid #f2f2f5;      /* Remove the border */
+@font-face {
+  font-family: inter_light;
+  src: url('./Inter/Inter-Light.otf');
+}
+
+@font-face {
+  font-family: apple_ui;
+  src: url('./SF-Apple/SF-Pro-Display-Bold.otf');
 }
 
 .nav-item:hover{
-  background-color: #f2f2f5;
+  background-color: #878787;
   border-radius: 10px;    
 }
 
@@ -43,4 +48,33 @@ code {
 .placepoint_highlighter{
   font-weight: bold;
   font-family: inter;
+}
+
+.heading-css{
+  padding-top: 110px;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.15;
+  color: white;
+}
+
+.subheading-css{
+  color: #f2f2f5;
+  font-family: inter_light;
+  font-size: 20px;
+  margin-top: 30px !important;
+  font-weight: 500;
+}
+
+.button_styler{
+  font-family: inter_light;
+  font-weight: 400;
+}
+
+.bg-gradient-dark {
+  background: linear-gradient(135deg, #1a1a2e, #16213e); /* Replace with your colors */
+  /* color: white; Ensures text is visible on dark background */
+  min-height: 100vh; 
+  margin: 0;
+  padding: 0;
 }
