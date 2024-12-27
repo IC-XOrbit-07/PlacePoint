@@ -27,9 +27,13 @@ code {
   font-family: apple_ui;
   src: url('./SF-Apple/SF-Pro-Display-Bold.otf');
 }
+@font-face {
+  font-family: inter_medium;
+  src: url('./Inter/Inter-Medium.otf');
+}
 
 .nav-item:hover{
-  background-color: #878787;
+  background-color: #37377f;
   border-radius: 10px;    
 }
 
@@ -48,6 +52,7 @@ code {
 .placepoint_highlighter{
   font-weight: bold;
   font-family: inter;
+  margin-left: 100px;
 }
 
 .heading-css{
@@ -74,7 +79,24 @@ code {
 .bg-gradient-dark {
   background: linear-gradient(135deg, #1a1a2e, #16213e); /* Replace with your colors */
   /* color: white; Ensures text is visible on dark background */
-  min-height: 100vh; 
+  min-height: 92vh; 
   margin: 0;
   padding: 0;
+}
+
+.navbar{
+  /* background: linear-gradient(135deg, #27275a, #16213e) !important; */
+  background-color: #282c55 !important;
+}
+
+.feature_font{
+  font-family: inter_medium;
+  font-size: 25px;
+  font-weight: 900;
+  margin-top: 120px;
+}
+
+.features_box{
+  background-color: #313d66;
+  border-radius: 10px;
 }
