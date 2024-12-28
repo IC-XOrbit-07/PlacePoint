@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding-top: 56px;
+  scroll-behavior: smooth;
+  
 }
 
 code {
@@ -57,7 +59,7 @@ code {
 
 .heading-css{
   padding-top: 110px;
-  font-size: 48px;
+  font-size: 46px;
   font-weight: bold;
   line-height: 1.15;
   color: white;
@@ -79,6 +81,7 @@ code {
 .bg-gradient-dark {
   background: linear-gradient(135deg, #1a1a2e, #16213e); /* Replace with your colors */
   /* color: white; Ensures text is visible on dark background */
+  /* background-image: url('./logo.svg'); */
   min-height: 92vh; 
   margin: 0;
   padding: 0;
@@ -99,4 +102,28 @@ code {
 .features_box{
   background-color: #313d66;
   border-radius: 10px;
+}
+
+.pricing_box{
+  background-color: #313d66;
+  border-radius: 10px;
+  height: auto;
+}
+
+.choose_plan_button,.choose_plan_button:hover{
+  background-color: #171a31;
+  color: white;
+  /* font-weight: bold; */
+  border: none;
+}
+
+.contact_us{
+  background: linear-gradient(135deg, #1a1a2e, #16213e) !important;
+  margin-top: 110px;
+  border: none;
+}
+
+.direction_adjuster{
+  justify-content: center;
+  align-items: center;
 }

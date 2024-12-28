@@ -1,6 +1,7 @@
 import './index.css'
 import Navbar from './component/Navbar'
 import Homeherosection from './component/Homeherosection';
+import ContactUs from './component/ContactUs';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
 
       <Navbar/>
       <Homeherosection/>
+      <ContactUs/>
 
     </div>
   );
