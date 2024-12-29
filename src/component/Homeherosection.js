@@ -1,11 +1,12 @@
 import React from 'react'
+import { SplitText } from "../component/SplitText";
 
 export default function Homeherosection() {
   return (
     <div>
       
       <div className="container text-center heading-css">
-        Welcome to Your AI Powered Placement Buddy
+        Welcome to Your <SplitText text="AI Powered" className="custom-class" delay={50} /> Placement Buddy
       </div>
       <p className="container text-center my-3 subheading-css">Helping you find the right opportunities and career paths with ease</p>
       
