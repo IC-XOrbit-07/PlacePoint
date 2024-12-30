@@ -135,9 +135,15 @@ code {
   align-items: center;
 }
 
+.nav-link{
+  border-radius: 10px;
+}
+
+
 .nav-link:hover{
   background-color: #f2f2f5;
   border-radius: 10px;
+  /* font-weight: bold; */
   color: black !important;
 
 }
