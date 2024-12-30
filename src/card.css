@@ -1,0 +1,135 @@
+/* General Reset */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0px;
+}
+
+/* Card Styles */
+.card_dashboard{
+    background-color: white;
+    width: 280px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #e0e0eb;
+}
+
+/* Card Header */
+.card-header_dashboard{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    align-items: baseline;
+    margin-top: 10px;
+    height: 50px;
+    background-color: #ffe1cc;
+    border-bottom: none !important;
+}
+
+.date_dashboard{
+    font-size: 12px;
+    color: #333;
+    font-weight: 500;
+    background-color: white;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 13px;
+    border-radius: 15px;
+}
+
+.bookmark-btn_dashboard{
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* Card Body */
+.card-body_dashboard{
+    padding: 15px;
+}
+
+.company_dashboard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company-logo_dashboard{
+    width: 30px;
+    height: 30px;
+    margin-top: -18px;
+    mix-blend-mode: multiply;
+}
+
+.job-title_dashboard{
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin: 10px 0;
+}
+
+.tags_dashboard{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tag {
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    color: #555;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Footer */
+.card-footer_dashboard {
+    padding: 15px;
+    background-color: #fff;
+    border-top: 1px solid #e3e3e3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+}
+
+.salary {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0px;
+}
+
+.location {
+    font-size: 14px;
+    color: #777;
+}
+
+.details-btn_dashboard{
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 12px;
+    cursor: pointer;
+}
+  
+.top_div_dashboard{
+    border: 5px solid white;
+    border-radius: 15px;
+    /* background-color: #000; */
+    background-color: #ffe1cc;
+}
+
+
+.bookmark_updater{
+    background-color: black;
+}

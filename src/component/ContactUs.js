@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function ContactUs() {
   return (
-    <div className="card contact_us">
+    <div className="card contact_us" id='contact1'>
         <div className="card-body">
             <h5 className="card-title text-center text-light" style={{fontSize:"30px"}}>Reach Out to Us</h5>
             <p className="card-text text-center text-light">Have any questions or need assistance? We're here to help! Feel free to get in touch, and we'll respond as soon as possible.</p>

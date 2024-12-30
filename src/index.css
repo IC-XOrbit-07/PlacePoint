@@ -35,7 +35,7 @@ code {
 }
 
 .nav-item:hover{
-  background-color: #37377f;
+  /* background-color: #37377f; */
   border-radius: 10px;    
 }
 
@@ -58,7 +58,7 @@ code {
 }
 
 .heading-css{
-  padding-top: 110px;
+  padding-top: 160px;
   font-size: 46px;
   font-weight: bold;
   line-height: 1.15;
@@ -89,8 +89,15 @@ code {
 
 .navbar{
   /* background: linear-gradient(135deg, #27275a, #16213e) !important; */
-  background-color: #282c55 !important;
+  background-color: black !important;
+  color: white;
 }
+
+.navbar-toggler {
+  background-color: #fff; 
+  border-color: #dddddd;
+}
+
 
 .feature_font{
   font-family: inter_medium;
@@ -111,7 +118,7 @@ code {
 }
 
 .choose_plan_button,.choose_plan_button:hover{
-  background-color: #171a31;
+  /* background-color: #171a31; */
   color: white;
   /* font-weight: bold; */
   border: none;
@@ -126,4 +133,23 @@ code {
 .direction_adjuster{
   justify-content: center;
   align-items: center;
+}
+
+.nav-link:hover{
+  background-color: #f2f2f5;
+  border-radius: 10px;
+  color: black !important;
+
+}
+
+.dashboardNavbar_reponsive{
+  margin-left: 50px;
+  gap: 4px;
+  /* justify-content: space-around; */
+}
+@media screen and (max-width:1024px) {
+  .dashboardNavbar_reponsive{
+    margin-left: 0px;
+    /* background-color: red; */
+  }
 }
