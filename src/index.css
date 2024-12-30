@@ -117,8 +117,8 @@ code {
   height: auto;
 }
 
-.choose_plan_button,.choose_plan_button:hover{
-  /* background-color: #171a31; */
+.choose_plan_button{
+  background-color: blue;
   color: white;
   /* font-weight: bold; */
   border: none;
