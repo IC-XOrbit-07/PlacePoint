@@ -71,7 +71,7 @@ export default function Homeherosection() {
                           <li className='mb-2'>Standard security and privacy</li>
                         </ul>
                         <div className="container text-center">
-                          <button type="button" class="btn btn-dark px-5 py-2 choose_plan_button">Choose Plan</button>
+                          <button type="button" class="btn px-5 py-2 choose_plan_button">Choose Plan</button>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@ export default function Homeherosection() {
                           <li className='mb-2'>Monthly placement trends</li>
                         </ul>
                         <div className="container text-center">
-                          <button type="button" class="btn btn-dark px-5 py-2 choose_plan_button">Choose Plan</button>
+                          <button type="button" class="btn px-5 py-2 choose_plan_button">Choose Plan</button>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@ export default function Homeherosection() {
                           <li className='mb-2'>Hiring Manager Collaboration</li>
                         </ul>
                         <div className="container text-center">
-                          <button type="button" class="btn btn-primary px-5 py-2 choose_plan_button">Choose Plan</button>
+                          <button type="button" class="btn px-5 py-2 choose_plan_button">Choose Plan</button>
                         </div>
                     </div>
                 </div>

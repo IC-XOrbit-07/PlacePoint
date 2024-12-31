@@ -118,7 +118,7 @@ code {
 }
 
 .choose_plan_button{
-  background-color: blue;
+  background-color: #0d6efd;
   color: white;
   /* font-weight: bold; */
   border: none;
@@ -159,3 +159,6 @@ code {
     /* background-color: red; */
   }
 }
+
+
+

@@ -1,0 +1,143 @@
+[
+    {
+      "date": "20 May, 2023",
+      "company": "Amazon",
+      "role": "Senior UI/UX Designer",
+      "employmentType": ["Part time", "Senior level", "Distant", "Project work", "Freelance"],
+      "rate": "$250/hr",
+      "location": "San Francisco, CA",
+      "logoUrl": "https://example.com/logo-amazon.png",
+      "detailsUrl": "https://example.com/job-details/amazon-uiux"
+    },
+    {
+      "date": "15 Jun, 2023",
+      "company": "Google",
+      "role": "Software Engineer",
+      "employmentType": ["Full time", "Mid level", "Remote", "Permanent", "Flexible hours"],
+      "rate": "$200/hr",
+      "location": "Mountain View, CA",
+      "logoUrl": "https://example.com/logo-google.png",
+      "detailsUrl": "https://example.com/job-details/google-software"
+    },
+    {
+      "date": "05 Jul, 2023",
+      "company": "Apple",
+      "role": "iOS Developer",
+      "employmentType": ["Contract", "Entry level", "On-site", "Temporary", "Part time"],
+      "rate": "$180/hr",
+      "location": "Cupertino, CA",
+      "logoUrl": "https://example.com/logo-apple.png",
+      "detailsUrl": "https://example.com/job-details/apple-ios"
+    },
+    {
+      "date": "10 Aug, 2023",
+      "company": "Microsoft",
+      "role": "Cloud Solutions Architect",
+      "employmentType": ["Full time", "Senior level", "Hybrid", "Permanent", "Flexible hours"],
+      "rate": "$300/hr",
+      "location": "Redmond, WA",
+      "logoUrl": "https://example.com/logo-microsoft.png",
+      "detailsUrl": "https://example.com/job-details/microsoft-cloud"
+    },
+    {
+      "date": "25 Sep, 2023",
+      "company": "Tesla",
+      "role": "Product Designer",
+      "employmentType": ["Full time", "Senior level", "On-site", "Permanent", "Freelance"],
+      "rate": "$220/hr",
+      "location": "Palo Alto, CA",
+      "logoUrl": "https://example.com/logo-tesla.png",
+      "detailsUrl": "https://example.com/job-details/tesla-product"
+    },
+    {
+      "date": "30 Oct, 2023",
+      "company": "Meta",
+      "role": "AR/VR Engineer",
+      "employmentType": ["Contract", "Mid level", "Remote", "Temporary", "Flexible hours"],
+      "rate": "$270/hr",
+      "location": "Menlo Park, CA",
+      "logoUrl": "https://example.com/logo-meta.png",
+      "detailsUrl": "https://example.com/job-details/meta-arvr"
+    },
+    {
+      "date": "12 Nov, 2023",
+      "company": "Netflix",
+      "role": "Backend Developer",
+      "employmentType": ["Full time", "Mid level", "Hybrid", "Permanent", "Flexible hours"],
+      "rate": "$240/hr",
+      "location": "Los Gatos, CA",
+      "logoUrl": "https://example.com/logo-netflix.png",
+      "detailsUrl": "https://example.com/job-details/netflix-backend"
+    },
+    {
+      "date": "05 Dec, 2023",
+      "company": "Spotify",
+      "role": "Data Scientist",
+      "employmentType": ["Full time", "Senior level", "Remote", "Permanent", "Project work"],
+      "rate": "$260/hr",
+      "location": "New York, NY",
+      "logoUrl": "https://example.com/logo-spotify.png",
+      "detailsUrl": "https://example.com/job-details/spotify-data"
+    },
+    {
+      "date": "20 Dec, 2023",
+      "company": "LinkedIn",
+      "role": "Frontend Developer",
+      "employmentType": ["Contract", "Entry level", "On-site", "Temporary", "Freelance"],
+      "rate": "$200/hr",
+      "location": "Sunnyvale, CA",
+      "logoUrl": "https://example.com/logo-linkedin.png",
+      "detailsUrl": "https://example.com/job-details/linkedin-frontend"
+    },
+    {
+      "date": "02 Jan, 2024",
+      "company": "Twitter",
+      "role": "DevOps Engineer",
+      "employmentType": ["Part time", "Mid level", "Remote", "Temporary", "Project work"],
+      "rate": "$230/hr",
+      "location": "San Francisco, CA",
+      "logoUrl": "https://example.com/logo-twitter.png",
+      "detailsUrl": "https://example.com/job-details/twitter-devops"
+    },
+    {
+      "date": "15 Jan, 2024",
+      "company": "Snapchat",
+      "role": "Machine Learning Engineer",
+      "employmentType": ["Full time", "Senior level", "Hybrid", "Permanent", "Flexible hours"],
+      "rate": "$300/hr",
+      "location": "Santa Monica, CA",
+      "logoUrl": "https://example.com/logo-snapchat.png",
+      "detailsUrl": "https://example.com/job-details/snapchat-ml"
+    },
+    {
+      "date": "20 Feb, 2024",
+      "company": "Adobe",
+      "role": "Graphic Designer",
+      "employmentType": ["Part time", "Entry level", "Remote", "Freelance", "Project work"],
+      "rate": "$190/hr",
+      "location": "San Jose, CA",
+      "logoUrl": "https://example.com/logo-adobe.png",
+      "detailsUrl": "https://example.com/job-details/adobe-graphic"
+    },
+    {
+      "date": "05 Mar, 2024",
+      "company": "Zoom",
+      "role": "Full Stack Developer",
+      "employmentType": ["Full time", "Mid level", "Remote", "Permanent", "Project work"],
+      "rate": "$250/hr",
+      "location": "San Jose, CA",
+      "logoUrl": "https://example.com/logo-zoom.png",
+      "detailsUrl": "https://example.com/job-details/zoom-fullstack"
+    },
+    {
+      "date": "18 Mar, 2024",
+      "company": "Dropbox",
+      "role": "UI Developer",
+      "employmentType": ["Part time", "Entry level", "On-site", "Freelance", "Temporary"],
+      "rate": "$180/hr",
+      "location": "San Francisco, CA",
+      "logoUrl": "https://example.com/logo-dropbox.png",
+      "detailsUrl": "https://example.com/job-details/dropbox-ui"
+    }
+]
+  

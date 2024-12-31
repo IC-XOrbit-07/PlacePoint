@@ -1,24 +1,3 @@
-// import './index.css'
-// import Navbar from './component/Navbar'
-// import Homeherosection from './component/Homeherosection';
-// import ContactUs from './component/ContactUs';
-// // import Card from './component/Card';
-
-// function App() {
-//   return (
-//     <>
-//       <div className="bg-gradient-dark">
-//         <Navbar/>
-//         <Homeherosection/>
-//         <ContactUs/>
-//         {/* <Card/> */}
-//       </div>
-//     </>
-//   );
-// }
-
-// export default App;
-
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
